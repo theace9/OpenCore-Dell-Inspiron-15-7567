@@ -1,4 +1,5 @@
-# OpenCore-Dell-Inspiron-15-7567
+### Mac OS Big Sur on Dell Inspiron 15 7567 15.6" Core i7 Gaming Laptop
+![](https://github.com/theace9/OpenCore-Dell-Inspiron-15-7567/blob/main/working_Screenshot_2020-12-11_at_23.41.33.png)
 
 # System Specs
 ```
